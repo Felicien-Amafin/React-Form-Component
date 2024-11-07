@@ -24,7 +24,7 @@ Basic form component built with React. My goal was to train myself on React useS
 ## Installation & Testing
 <br/>
 
-`To install the project: first run "npm install". To test the project: run "npm run dev"`.
+`To install the project: first run "npm install". To lauchn the project in local server: run "npm run dev"`.
 <br/>
 <br/>
 
